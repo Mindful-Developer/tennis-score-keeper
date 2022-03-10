@@ -1,0 +1,19 @@
+#image {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    object-position: middle;
+}
+
+#img-col {
+    height: 50vh;
+}
+
+#setText {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;;
+}
+
+.set-btn:enabled {
+    color: black;
+}
